@@ -1,3 +1,9 @@
+.vscode
+fire-armor
+no-graphics
+mod-*
+olmer-assets
+
 # Compiled Lua sources
 luac.out
 
@@ -38,4 +44,3 @@ luac.out
 *.i*86
 *.x86_64
 *.hex
-
