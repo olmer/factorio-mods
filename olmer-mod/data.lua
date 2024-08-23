@@ -28,8 +28,13 @@ data:extend({
         name = "o-iron-ore",
         subgroup = "bio-bip",
         stack_size = 50,
-        icon = "__base__/graphics/icons/iron-ore.png",
-        icon_size = 32,
+        icons = {
+            {
+                icon = "__base__/graphics/icons/iron-ore.png",
+                tint = { 1, 0, 0 }
+            }
+        },
+        icon_size = 64,
         scale = 64 / 32 * 0.35,
         shift = { 20, -20 },
     },
