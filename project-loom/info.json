@@ -1,11 +1,11 @@
 {
-  "name": "olmer-mod",
+  "name": "project-loom",
   "version": "0.0.1",
-  "title": "Moddig playground",
+  "title": "Project Loom",
   "author": "olmer",
   "factorio_version": "1.1",
   "dependencies": [
     "base >= 1.1"
   ],
-  "description": "This mod adds is a playground for now."
+  "description": "Intricate overhaul mod"
 }
