@@ -2,7 +2,7 @@
 fire-armor
 no-graphics
 mod-*
-olmer-assets
+project-loom-assets
 
 # Compiled Lua sources
 luac.out
